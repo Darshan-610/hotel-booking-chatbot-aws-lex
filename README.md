@@ -30,7 +30,7 @@ User -> Amazon Lex (intents and slots) -> AWS Lambda (price calculation) -> Conf
 4. Lambda calculates the total and returns the booking summary
 
 ## Screenshots
-![Conversation](Screenshots/1.BookingConversation.png)
+![Conversation](Screenshots/1.Booking Conversation.png)
 
 ## Tech stack
 Amazon Lex V2, AWS Lambda (Python 3.12)
